@@ -14,6 +14,4 @@ Intento de conflicto 2.
 
 Conflicto 4
 
-
-
-Recuperando versiones anteriores
+Nuevas funcionalidades de color 
