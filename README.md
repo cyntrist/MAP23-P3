@@ -15,3 +15,4 @@ Intento de conflicto 2.
 Conflicto 4
 
 Nuevas funcionalidades de color 
+
