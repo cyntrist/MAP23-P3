@@ -2,3 +2,5 @@ prueba numero 1
 
 conflicto tipo numero 1
 intento 2
+
+conflicto 4
