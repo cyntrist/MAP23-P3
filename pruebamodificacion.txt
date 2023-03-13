@@ -1,1 +1,3 @@
 prueba numero 1
+
+conflicto tipo numero 1
