@@ -13,7 +13,3 @@ Intento de conflicto tipo 1
 Intento de conflicto 2.
 
 Conflicto 4
-
-
-
-Recuperando versiones anteriores
