@@ -16,3 +16,4 @@ Conflicto 4
 
 Nuevas funcionalidades de color 
 
+Nueva funcionalidad para rotar piezas con el ratón
